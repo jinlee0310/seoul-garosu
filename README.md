@@ -23,10 +23,6 @@
 
 - Github, Notion, Figma
 
-## 서비스 플로우 차트
-
-![flowchart](docs/seoul_garosu_flowchart.png)
-
 ## 기여한 부분
 
 - 나무돌보미 신청 페이지 제작
